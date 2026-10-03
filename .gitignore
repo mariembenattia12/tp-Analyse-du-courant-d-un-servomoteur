@@ -1,0 +1,11 @@
+# Clés API et configuration personnelle
+config.m
+
+# Données du cours (propriété de l'enseignant)
+*.mat
+*.csv
+
+# Fichiers temporaires MATLAB
+*.asv
+*.m~
+slprj/

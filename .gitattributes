@@ -1,0 +1,2 @@
+# Fait reconnaître les fichiers .m comme du MATLAB (et non Objective-C) sur GitHub
+*.m linguist-language=MATLAB
